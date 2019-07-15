@@ -181,18 +181,6 @@ http.interceptor.response = (response) => {
 ```
 
 
-## 3. 接口数据加密、接口签名核验
-
-在vmeitime-http/interface.js文件中的request(Object)方法中补充修改相应的代码
-
-## 4. 接口请求/响应日志记录
-
-在vmeitime-http/interface.js文件中的request(Object)方法中补充修改相应的代码
-
-## 5. 业务相关接口编写
-
-在vmeitime-http/index.js文件中的编写具体业务相关的接口,参考test()方法
-
 
 
 	
