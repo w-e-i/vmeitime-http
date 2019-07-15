@@ -1,0 +1,27 @@
+{
+  "name": "vmeitime-http",
+  "version": "1.0.0",
+  "description": "uni-app 的 HTTP 库",
+  "main": "interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/w-e-i/vmeitime-http.git"
+  },
+  "keywords": [
+    "uni-app",
+    "http",
+    "拦截器"
+  ],
+  "author": "wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-e-i/vmeitime-http/issues"
+  },
+  "homepage": "https://github.com/w-e-i/vmeitime-http#readme",
+  "dependencies": {
+    "js-md5": "^0.7.3"
+  }
+}
